@@ -1,0 +1,9 @@
+{
+  "nginx": {
+    "cpus": 1,
+    "mem": 1024,
+    "bridge": true,
+    "contentUrl":"https://github.com/mesosphere/hello-nginx/archive/master.zip",
+    "contentDir":"hello-nginx-master/"
+  }
+}
